@@ -1,4 +1,4 @@
-//Create a web server that listens for requests on port 3000
+//Create web server that listens for requests on port 3000
 const express = require('express');
 const app = express();
 const port = 3000;
